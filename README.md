@@ -14,3 +14,4 @@ Tools Used: Power BI, DAX functions, and data visualization techniques.
 - Enabled stakeholders to identify high-performing outlets and popular item categories.
 - Supported strategic decisions in inventory management and outlet expansion based on city-tier performance trends.
 - Improved understanding of customer preferences for tailored marketing and sales strategies.
+![WhatsApp Image 2024-11-16 at 22 51 03_cae36839](https://github.com/user-attachments/assets/37c71a08-7098-4abd-aac6-6b5722b8c6f2)
